@@ -3935,7 +3935,7 @@ body.path-mod-quiz table tbody tr.gradedattempt>td {
 
 @media print {
     .quiz-secure-window * {
-        display: none
+        display: block
     }
 }
 
